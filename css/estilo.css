@@ -1,0 +1,28 @@
+#home {
+	background: #229428;
+	color: green;
+}
+
+.cor{
+	color:white;
+	padding: 10px;
+	font-size: 2.5em
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255,255,255);
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+
+/******
+estilo do formulario de inscrição da empresa*/
+
+#cortext{
+
+	text-align: center;
+	font-size: 2.5em
+	color: #3B9112;
+}
